@@ -1,0 +1,2 @@
+# Cost-Efficiency-Analysis-of-CNG-vs-PMS-Vehicle-Conversion-in-Nigeria-Option-2-Portfolio-Friendly
+This project analyzes the cost efficiency of converting vehicles from PMS to CNG in Nigeria by comparing fuel cost per kilometer, monthly fuel spending, savings, and payback periods across different vehicle categories, engine types, and brands using a standardized 1,000 km monthly driving assumption.
