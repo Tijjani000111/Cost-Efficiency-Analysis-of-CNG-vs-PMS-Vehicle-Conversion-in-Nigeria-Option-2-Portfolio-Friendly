@@ -1,0 +1,7 @@
+vehicle_category,engine_type,cng_tank_size,conversion_cost_naira
+Sedan,V4,65L Cylinder,"NGN 1,300,000.00"
+Sedan,V6,65L Cylinder,"NGN 1,500,000.00"
+SUV,V6,65L Cylinder,"NGN 1,500,000.00"
+Bus,V6,65L Cylinder,"NGN 1,500,000.00"
+Tricycle,Single,10L Cylinder,"NGN 75,000.00"
+Motorcycle,Single,10L Cylinder,"NGN 75,000.00"

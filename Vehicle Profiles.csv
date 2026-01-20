@@ -1,0 +1,17 @@
+vehicle_id,vehicle_category,brand,engine_type,fuel_tank_capacity_liters,pms_efficiency_km_per_liter,cng_efficiency_km_per_kg,typical_use_case
+1,Sedan,Toyota,V4,50,13,17,Private
+2,Sedan,Honda,V4,47,12,16,Private
+3,Sedan,Nissan,V4,50,12,16,Private
+4,Sedan,Hyundai,V4,50,13,17,Private
+5,Sedan,Kia,V4,50,12,16,Private
+6,Sedan,Mazda,V4,50,13,17,Private
+7,SUV,Toyota,V6,65,9,12,Private
+8,SUV,Honda,V6,65,9,12,Private
+9,SUV,Lexus,V6,72,8,10,Private
+10,SUV,Ford,V6,70,8,10,Private
+11,SUV,Mercedes,V6,70,8,10,Private
+12,SUV,BMW,V6,68,8,10,Private
+13,Bus,Toyota Hiace,V6,70,6,8,Commercial
+14,Bus,Coaster Bus,V6,90,5,7,Commercial
+15,Tricycle,Keke Napep,Single,10,22,28,Commercial
+16,Motorcycle,Boxer,Single,13,35,45,Commercial
